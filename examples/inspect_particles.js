@@ -1,7 +1,6 @@
 var sys = require('sys');
 
 var core = require('../lib/core');
-var rotations = require('../lib/rotations');
 
 console.log("new nucleus C_24");
 var nuc = new core.Nucleus(24,12);
